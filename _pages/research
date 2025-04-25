@@ -7,6 +7,11 @@ I'm currently thinking about various aspects of supernovae interacting with thic
 
 I'm working on several components of this vast problem, mainly analytically. One of these is the problem of x-ray absorption and reprocessing, and another is treating the case in which the wind is Thompson thin. I am also very glad to have the magnificent and overconstrained observations of SN2023ixf to test my models against. 
 
+The figure below compares CLOUDY with XSPEC tbabs, and demonstrates the limitation of using a neutral column density to fit a partially ionized absorber. 
+![A comparison of x-ray absorption models](assets/img/xspec_cloudy.svg)
+
+
+
 ___
 ## The Structure and Evolution of Relativistic Jetted Blast Waves
 ### Focusing on GRB jets observed off-axis
@@ -15,9 +20,9 @@ To solve this, I simulated a variety of jet structures with the publicly availab
 Using these simulations and a simple analytical model, we were able to show that the jet core angle and observer angle can be measured using a combination of the light curve, which gives the ratio between the core angle and observer angle, and the image centroid motion, as observed with VLBI, which gives the difference between the two angles. These measurements are not affected by the jet's angular structure [paper](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..403G/abstract). In addition, the understanding of the jet's fluid dynamical evolution enables us to constrain the jet core angle at the time of breakout from the ejecta, and use the light-curve to measure the jet's initial angular structure [paper](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1704G/abstract). 
 Applying these to the GRB afterglow of GW170817, we find that the jet core angle at the time of the peak of the light curve is $1.5-4$ degrees, which means the initial core angle was $0.5-4$ degrees. The observing angle is $20$ degrees, and the inital jet structure was $\frac{d\log E_{iso}}{d\log\theta}\simeq 3-4$. These measurements make it the most well-observed jet. 
 
-The video below is based on one of my simulations. The large panel shows the light curve while the small panel shows the jet structure at the lab time contributing most to the current observer time. The regions responsible for 90% and 50% of the emission are marked on the jet structure. 
+The video below is based on one of my simulations. The large panel shows the light curve, while the small panel shows the jet structure at the lab time, contributing most to the current observer time. The regions responsible for 90% and 50% of the observed flux are marked on the jet structure. This demonstrates that an observer sweeps through the jet structure, and is thus sensitive to its geometry.
 
-
+{% include youtube.html id="WSp-P3kyaoA" %}
 
  ### A few words about measuring H0 with gravitational wave events with an observable jet
 Gravitational waves provide a direct measurement of the luminosity distance, making them a valuable tool to measure the local Hubble constant without relying on the distance ladder measurement. However, for events with small inclinations, the inclination angle of the binary is degenerate with the luminosity distance. In binary neutron star mergers or mergers and perhaps also in mergers of a neutron star and a black hole, observations of the GRB jet can provide a complementary measurement of the geometry, assuming the jet is launched in the direction of the angular momentum. 5-10 such events would be sufficient for resolving the hubble tension, but given the current neutron star merger rate, I hope the Hubble tension will be resolved before that.
