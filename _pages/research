@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /research/
+title: research
+description: Description of research interests
+nav: true
+nav_order: 1
+---
 
 # Research
 A short summary of my work on various topics
