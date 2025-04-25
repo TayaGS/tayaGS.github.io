@@ -26,3 +26,11 @@ latest_posts:
 I'm Taya, I work on various high-energy astrophysics transients, using analytical methods alongside numerical simulations. I'm specifically interested in problems in which the hydrodynamics of shock waves is coupled to emission processes, and get very excited when I can test my theory against observations. You can read more about my research in the [Research](tayaGS.github.io/research) tab, or have a look at my [papers](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Govreen-Segal%22&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
 
 I'm currently in a direct PhD program at Tel Aviv University, advised by Ehud Nakar. Before that, I did my undergraduate studies in physics and mathematics at Tel-Aviv University. 
+
+# Research
+
+## The structure and evolution of jetted blast waves
+something about 170817
+
+## Another research
+very smart physics
