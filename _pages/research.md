@@ -1,14 +1,11 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Description of research interests
 nav: true
 nav_order: 1
 ---
-
-# Research
-A short summary of my work on various topics
 
 ## What I'm thinking about now - CSM interaction
 I'm currently thinking about various aspects of supernovae interacting with thick circumstellar media. A SN exploding into a dense wind will form a forward shock propagating into the wind, and a reverse shock propagating into the ejecta. Initially, the photon diffusion time through the wind may be longer than the dynamical time, keeping the photons trapped in a radiation-mediated shock, until the two times become comparable, and the photons can escape. This stage is known as a shock breakout. I'm interested in what happens after it, once the shocks become collisionless. My main question is, what will we observe, and what does that tell us about the local upstream. What I like about this problem is that it has a lot of different physics. Both shocks heat the matter to x-ray temperatures, but these x-rays can be reprocessed by photoabsorption in various parts of the system. The reprocessed X-rays will contribute to cooling via inverse Compton, while the cooling will affect the temperature and density in the interaction region, and can significantly change the reprocessing. In addition, the photons diffusing through the upstream can be photoabsorbed or can photoionize their way out. Perhaps, they will suffer Compton degradation, or maybe they'll heat parts of the upstream, and will not? Additional complications arise when one considers non-thermal pressure sources such as magnetic fields and cosmic rays, the electron-ion coupling in the shocks, and the effect a clumpy wind may have on the cooling efficiency. 
