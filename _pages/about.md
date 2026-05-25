@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in theoretical astrophysics at Tel-Aviv University
+subtitle: PhD student @ Tel-Aviv University -> Spitzer fellow @ Princeton University
 profile:
   align: center
   image: prof_pic.jpg
@@ -24,7 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I'm Taya, I work on various high-energy astrophysics transients, using analytical methods alongside numerical simulations. I'm specifically interested in problems in which the hydrodynamics of shock waves is coupled to emission processes, and am always excited to test my theory against observations. My research so far can be put into roughly three categories.
-1. I'm currently thinking about various aspects of **Interaction powered transients** (e.g., interacting supernovae, luminous fast blue optical transients), focusing on X-ray and optical emission. The shock waves powering these transients emit X-rays, which are later reprocessed into the observed optical lightcurve. Isolating this specific effect, in [this paper,](https://ui.adsabs.harvard.edu/abs/2025arXiv250908119G/abstract), we considered the problem of X-ray reprocessing and studied the ability of X-rays to photoionize or Compton heat their way through a medium. Alongside developing the broader framework, I'm currently modelling **AT2018cow** and **SN2023ixf**.
+1. I'm currently thinking about various aspects of **Interaction powered transients** (e.g., interacting supernovae, luminous fast blue optical transients), focusing on X-ray and optical emission. The shock waves powering these transients emit X-rays, which are later reprocessed into the observed optical lightcurve. In [this paper,](https://ui.adsabs.harvard.edu/abs/2025arXiv250908119G/abstract), we considered the problem of X-ray reprocessing and studied the ability of X-rays to photoionize or Compton heat their way through a medium. 
+Building on this work, we were able to explain the luminous fast blue optical transient **AT2018cow** as a [shock in aspherical CSM](https://ui.adsabs.harvard.edu/abs/2026arXiv260118887G/abstract). 
 2. The fluid dynamical [evolution of jetted blast waves](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1704G/abstract), and what that means for [measuring the geometry of off-axis GRB jets](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..403G/abstract). We show that using the light curve and VLBI observations of the centroid motion, we can measure the core angle at the time of the peak, the observing angle, the initial jet structure, and even constrain the initial jet core angle. Applying these models to **GW170817** makes it the GRB with the most well-constrained geometry. The jet viewing angle can also help in measuring **H0**, by breaking the degeneracy between the distance and viewing angle when using binary neutron star mergers as standard sirens. 
 3. The hydrodynamical evolution of spherical shock waves in expanding media, in the [Newtonian](https://ui.adsabs.harvard.edu/abs/2021ApJ...907..113G/abstract) and [relativistic](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528..313G/abstract) cases. These are neat hydro problems in which the shocks generally don't follow a self-similar solution.
 
