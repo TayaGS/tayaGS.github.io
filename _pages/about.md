@@ -33,7 +33,7 @@ Building on this work, we were able to explain the luminous fast blue optical tr
 You can read more about my research in the [research](https://tayags.github.io/research/) tab, or have a look at my [papers](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Govreen-Segal%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) on ADS. 
 
 
-I'm currently in a direct PhD program at Tel Aviv University, advised by Ehud Nakar. Before that, I did my undergraduate studies in physics and mathematics at Tel-Aviv University. 
+I'm currently in a direct PhD program at Tel Aviv University, advised by Ehud Nakar. In the fall, I will begin a postdoctoral position at Princeton University as a Lyman Spitzer Jr. Fellowship fellow and a recipient of the Rothschild Fellowship. Before that, I completed my undergraduate studies in physics and mathematics at Tel Aviv University.
 
 
 **When I'm not doing physics**, you can find me rock climbing (hopefully at the crag and not on plastic). 
